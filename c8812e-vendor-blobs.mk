@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/c8812e/proprietary/lib/libchromatix_ov5647_ff_video_hfr.so:system/lib/libchromatix_ov5647_ff_video_hfr.so \
     vendor/huawei/c8812e/proprietary/lib/libchromatix_ov5647_preview.so:system/lib/libchromatix_ov5647_preview.so \
     vendor/huawei/c8812e/proprietary/lib/libchromatix_ov5647_video_hfr.so:system/lib/libchromatix_ov5647_video_hfr.so \
+    vendor/huawei/c8812e/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
     vendor/huawei/c8812e/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/c8812e/proprietary/lib/libcneapiclient.so:system/lib/libcneapiclient.so \
     vendor/huawei/c8812e/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
